@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mim :
 Suporte de TI Pleno na Activesoft | Licenciado em Computação (IFRN) | Análise e Desenvolvimento de Sistemas (UNP)
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociais :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@araujlucas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucasaraujo-/) 
 
 # 💻 Tech Stack:
