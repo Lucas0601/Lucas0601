@@ -1,5 +1,5 @@
 # 💫 Sobre mim :
-Suporte de TI Pleno na Activesoft | Licenciado em Computação (IFRN) | Análise e Desenvolvimento de Sistemas (UNP)
+Licenciado em Computação (IFRN) | Análise e Desenvolvimento de Sistemas (UNP)
 
 
 ## 🌐 Redes Sociais :
